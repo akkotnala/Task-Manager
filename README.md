@@ -1,7 +1,7 @@
-//to run api
+//to run api: 
 nodemon api.js
 
-//to run frontend
+//to run frontend:
 ng serve
 
 # Task-Manager
